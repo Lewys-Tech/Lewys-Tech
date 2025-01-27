@@ -12,8 +12,7 @@ A Dynamic Agile Software developer and upcoming DATA Analyst. In God I Trust|The
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lewys-Tech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewys-Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🐍 Snake Animation
-![Snake animation](https://github.com/Lewys-Tech/Lewys-Tech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Lewys-Tech/Lewys-Tech/output/output/snake.svg?rand=123)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
