@@ -29,6 +29,8 @@ A Dynamic Agile Software developer and upcoming DATA Analyst. In God I Trust|The
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+###
 
+<img src="https://raw.githubusercontent.com/Lewys-Tech/Lewys-Tech/output/dist/snake.svg" alt="Snake animation" />
 
-![snake gif](https://github.com/Lewys-Tech/Lewys-Tech/blob/output/github-contribution-grid-snake.gif)
+###
