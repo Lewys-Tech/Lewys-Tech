@@ -31,6 +31,6 @@ A Dynamic Agile Software developer and upcoming DATA Analyst. In God I Trust|The
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lewys-Tech/Lewys-Tech/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lewys-Tech/Lewys-Tech/output/snake.svg" alt="Snake animation" />
 
 ###
