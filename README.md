@@ -36,3 +36,6 @@ I am a highly motivated individual with a deep passion for technology and progra
 <img src="https://raw.githubusercontent.com/Lewys-Tech/Lewys-Tech/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31djakvxde23dwf2yatpbasiea3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
